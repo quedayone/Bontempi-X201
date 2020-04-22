@@ -12,6 +12,7 @@ For help on using Ableton Live Packs check out:<br />
 
 I have included the sample files for download if you want to create patches in another application like Propellerhead Reason or SoundFont. If you do please let me know so I can add it here. Or fork this and submit a pull request.
 
+Got questions, suggestions or comments? [@11d30](https://twitter.com/11d30)
 
 More about 11d30 at<br />
 https://www.11d30.com
