@@ -22,6 +22,6 @@ To DO
 - [ ] Create installers 
 - [ ] Work on new feature list
 - [x] Zip Kontakt-Instruments for easy downloads
-- [ ] Create 
+<!-- - [ ] Create  -->
 
 
